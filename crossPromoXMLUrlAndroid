@@ -1,0 +1,30 @@
+<games>
+<count id="3"/>
+<game id="1">
+<promoText>Sand Excavator Simulator: Water Surface Crane</promoText>
+<thumbURL>
+http://www.gameworksupport.com/icon512/FG/FG_RiverSand512.jpg
+</thumbURL>
+<Link>
+https://play.google.com/store/apps/details?id=com.freezegames.us.river.site.sand.excavator
+</Link>
+</game>
+<game id="2">
+<promoText>US Army Ambulance Driving Rescue Team</promoText>
+<thumbURL>
+http://www.gameworksupport.com/icon512/BG/BG_ArmyAmbulance512.jpg
+</thumbURL>
+<Link>
+https://play.google.com/store/apps/details?id=com.bloggames.us.army.ambulance.rescue
+</Link>
+</game>
+<game id="3">
+<promoText>Uphill Tunnel Construction Road Builder Simulator</promoText>
+<thumbURL>
+http://www.gameworksupport.com/icon512/CD/CD_UpHillTunnel.jpg
+</thumbURL>
+<Link>
+https://play.google.com/store/apps/details?id=com.caffedegamers.uphill.tunnel.road.construction
+</Link>
+</game>
+</games>
