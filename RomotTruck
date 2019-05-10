@@ -1,0 +1,30 @@
+<games>
+<count id="3"/>
+<game id="1">
+<promoText>Free Fire</promoText>
+<thumbURL>
+https://lh3.googleusercontent.com/BnJkgpoi9vlrTQ4mhPShpEnFOG9R0eJ-51sKUt0uPHj72TLT2iTo3A1kj6iEQG-oU5U
+</thumbURL>
+<Link>
+https://play.google.com/store/apps/details?id=com.dts.freefireth
+</Link>
+</game>
+<game id="2">
+<promoText>Free Fire</promoText>
+<thumbURL>
+https://lh3.googleusercontent.com/oObkhKfUXOY5yzheKe9w1Y1pXZBgdiSksMeNmT0BijoQ8J75maTCIW2TA7-6pA6EMA
+</thumbURL>
+<Link>
+https://play.google.com/store/apps/details?id=air.com.hypah.io.slither
+</Link>
+</game>
+<game id="3">
+<promoText>Free Fire</promoText>
+<thumbURL>
+https://lh3.googleusercontent.com/eJ5QOuK2-SUlZcyKmijKZbAQoffP73vqr1eDvowxWZWkUybPYdTUUOT_hPnFNcI2Clm1
+</thumbURL>
+<Link>
+https://play.google.com/store/apps/details?id=com.outfit7.talkingtomgoldrun
+</Link>
+</game>
+</games>
